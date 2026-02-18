@@ -1,0 +1,6 @@
+# WP快通 v1.1.0.2026217 依赖包
+python-docx>=1.1.0    # Word文档处理
+pypdf>=3.17.0         # PDF文档处理
+reportlab>=4.0.0      # PDF生成
+Pillow>=10.0.0        # 图片处理
+pywin32>=306; sys_platform == 'win32'  # Windows转换功能
