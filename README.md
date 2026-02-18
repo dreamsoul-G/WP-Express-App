@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 # WP Express (Document Processing) Software WP快通（文档处理）软件
 A lightweight Python desktop tool for Word (.docx) and PDF documents processing (Windows only),referred to as WP Express for short.
 > 轻量级 Python 桌面工具，专注于 Word (.docx) 和 PDF 文档处理（仅支持 Windows），简称WP快通。
+=======
+# WP Express (WP快通)
+A lightweight Python desktop tool for Word (.docx) and PDF documents processing (Windows only).
+> 轻量级 Python 桌面工具，专注于 Word (.docx) 和 PDF 文档处理（仅支持 Windows）。
+>>>>>>> 3d4d90d2a46c07e365fcbed520bbd6b070133eef
 
 ## 📖 About (关于项目)
 ### Motivation (开发初衷)
@@ -11,7 +17,8 @@ When completing a school paper assignment, I needed to submit the final version 
 
 Frustrated by these unnecessary costs for basic document tasks, I decided to build a simple, free tool to solve these pain points—WP Express was born. Over time, it has evolved to cover more basic document needs for myself and my peers.
 
-> 作为一名中国大学生，这个工具的诞生源于一次真实地困扰：  
+
+> 作为一名中国大学生，这个工具的诞生源于一次真实地困扰：
 > 某次完成学校论文作业时，我需要提交 PDF 格式的终稿，而封面需签名后再拍照上传。论文主体用 Word 编写，但过程中遇到了两个难题：
 > 1. 将拍照后的封面（转为 Word 格式）与论文正文合并，主流工具（如 WPS）需要开通 VIP 才能实现；  
 > 2. Word 与 PDF 双向转换，多数线上工具/软件也设有付费门槛。 
@@ -30,10 +37,12 @@ Frustrated by these unnecessary costs for basic document tasks, I decided to bui
 > - 当前版本：简体中文。
 
 ## 🚀 Development Plan (开发规划)
+
 1. Refactor GUI with PySide6, build local lightweight SQLite database, and implement multithreaded development;
 2. Add more free document processing features to cover daily academic needs;
 3. Develop paid closed-source features (e.g., batch multi-file conversion) for advanced use cases;
 4. Optimize page interaction and thread processing logic (improve stability and user experience).
+
 
 > 1. 基于 PySide6 重构 GUI，搭建本地轻量级 SQLite 数据库，实现多线程开发；
 > 2. 新增更多免费文档处理功能，覆盖日常学业需求；
