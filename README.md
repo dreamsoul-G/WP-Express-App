@@ -1,12 +1,11 @@
-<<<<<<< HEAD
 # WP Express (Document Processing) Software WP快通（文档处理）软件
 A lightweight Python desktop tool for Word (.docx) and PDF documents processing (Windows only),referred to as WP Express for short.
 > 轻量级 Python 桌面工具，专注于 Word (.docx) 和 PDF 文档处理（仅支持 Windows），简称WP快通。
-=======
+
 # WP Express (WP快通)
 A lightweight Python desktop tool for Word (.docx) and PDF documents processing (Windows only).
 > 轻量级 Python 桌面工具，专注于 Word (.docx) 和 PDF 文档处理（仅支持 Windows）。
->>>>>>> 3d4d90d2a46c07e365fcbed520bbd6b070133eef
+
 
 ## 📖 About (关于项目)
 ### Motivation (开发初衷)
